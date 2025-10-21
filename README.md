@@ -28,4 +28,12 @@ git clone https://github.com/Arthur123ms/Landing-Page.git
 cd Landing-Page
 
 # Abra o arquivo index.html no navegador ou use uma extensão como Live Server (VS Code)
+```
 
+## 👤 Autor
+
+Desenvolvido por Arthur Souza
+
+[🔗 Meu GitHub ]("https://github.com/Arthur123ms") 
+
+[🔗 LinkedIn ]("https://www.linkedin.com/in/arthur-magalh%C3%A3es-444565230/")
